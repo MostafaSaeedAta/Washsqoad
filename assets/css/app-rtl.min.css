@@ -2058,6 +2058,62 @@ span {cursor:pointer; }
   }
 }
 
+
+.operation .gps {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+
+ .operation .cols-divs {
+   text-align: center;
+   color: #fff;
+   padding: 15px ;
+   border-radius: 6px;
+ }
+
+.big-border-p {
+  border-bottom: 12px solid #fff !important;
+}
+
+ .operation thead{
+   background: #FFF !important;
+   color: rgb(75, 75, 75) !important;
+ }
+
+ .purble {
+   background-color: #815A7A !important;
+   color: #fff;
+ }
+ .yelo {
+   background-color: #F4D646  !important;
+   
+ }
+ .blu {
+   background-color: #417FC5 !important;
+ }
+ .gry {
+   background-color: #B9B7B4 !important;
+ }
+ .gren {
+   background-color: #41C572 !important;
+ }
+ .rd {
+   background-color: #F05050 !important;
+ }
+
+
+.operation-head {
+  background: rgb(225, 148, 96);
+  background: linear-gradient(0deg, rgba(225, 148, 96, 1) 0%, rgba(67, 0, 54, 1) 100%);
+  padding: 14px 0;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 0;
+  
+
+}
+
 .sp-original-input-container .sp-add-on {
   border-top-left-radius: 0 !important;
   border-bottom-left-radius: 0 !important;
